@@ -1,0 +1,5 @@
+The following URLs will help you a lot :
+
+https://github.com/jinglemansweep/PyLMS/tree/master/pylms
+https://github.com/jinglemansweep/PyLMS/blob/master/pylms/server.py
+https://github.com/jinglemansweep/PyLMS/blob/master/pylms/player.py
